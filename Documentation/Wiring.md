@@ -7,7 +7,7 @@ The HUB75 pin out, on the LED matrices.
 | 1 | 2 |
 | --- | --- |
 | R1 |  G1 |
-| B1 | GND |
+| B1 | GND | GND |
 | R2 | G2 |
 | B2 | GND |
 | A | B |
