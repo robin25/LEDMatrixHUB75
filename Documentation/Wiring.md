@@ -5,7 +5,7 @@ HUB75 pins to Stm32
 The HUB75 pin out, on the LED matrices.
 
 | 1 || 2 | 3 | 4 |
-| --- ||| --- | --- | --- |
+| --- || --- | --- | --- |
 | PD0 || R1 | G1 | PD1 |
 | PD2 || B1 | GND | GND |
 | PD3 || R2 | G2 | PD4 |
