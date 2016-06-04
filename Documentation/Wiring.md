@@ -1,6 +1,6 @@
 Wiring
 ===
-HUB75 pins
+HUB75 pins to Stm32
 ---
 The HUB75 pin out, on the LED matrices.
 
@@ -35,13 +35,3 @@ STM32F4Discovery matrix pins
 | PD6 | CLK |
 | PE6 | STB |
 | PC6 | OE |
-
-STM32F4Discovery control pins
----
-| STM32 | Name |
-| --- | --- |
-| GND | GND (Don't forget to connect this) |
-| PB6 | TXD (Can be left unconnected) |
-| PB7 | RXD (Should be connected to router's TXD) |
-
-Note that since the WR703N has an USB port, you can easily power the STM32 board by plugging the ST-LINK connection in there.
